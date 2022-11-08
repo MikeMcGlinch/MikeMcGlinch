@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MikeMcGlinch
 - 👀 I’m interested in ...Smart Home Tech
-- 🌱 I’m currently learning ... HomeBridge
-- 💞️ I’m looking to collaborate on ... HomeBridge MyQ
+- 🌱 I’m currently learning ... HomeAssistant
+- 💞️ I’m looking to collaborate on ... MyQ
 - 📫 How to reach me ... TBD
 
 <!---
